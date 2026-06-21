@@ -1,0 +1,7 @@
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+streamlit
+duckduckgo-search>=6.0.0
+curl_cffi
