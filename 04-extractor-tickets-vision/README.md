@@ -13,3 +13,7 @@ Aplicación que utiliza **Modelos de Visión Multimodal** para procesar imágene
 2. Instala las dependencias: `pip install -r requirements.txt`
 3. Configura tu `GROQ_API_KEY` en el `.env`
 4. Corre la app: `streamlit run app.py`
+
+
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/050bc3fb-68c8-41c7-ba55-067462337fd9" />
